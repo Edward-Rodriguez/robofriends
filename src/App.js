@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import CardList from './CardList';
 import { robots } from './robots';
 import SearchBox from './SearchBox';
+import './App.css';
 
 // STATE : description of app / object that describes application
 // ex: robot and whatever is entered in the searchbox
