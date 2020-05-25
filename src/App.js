@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
+import Scroll from './Scroll';
 import './App.css';
 
 // STATE : description of app / object that describes application
@@ -38,7 +39,9 @@ class App extends Component {
             <h1 className='f1'>RoboFriends</h1>
             <SearchBox searchChange={this.onSearchChange} />
           </header>
-          <CardList robots={filteredRobots} />
+          <Scroll>
+            <CardList robots={filteredRobots} />
+          </Scroll>
         </div>
       );
     }
