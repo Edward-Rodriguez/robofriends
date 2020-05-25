@@ -1,0 +1,10 @@
+.container {
+  /* cursor: pointer;
+   text-align: center;
+   font-size: 10em;
+   border-radius: ;  */
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-rows: 1fr;
+}
