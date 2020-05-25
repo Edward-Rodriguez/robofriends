@@ -33,9 +33,9 @@ class App extends Component {
       return <h1>Loading...</h1>;
     } else {
       return (
-        <div>
-          <header className='header'>
-            <h1 className='title'>RoboFriends</h1>
+        <div className='tc'>
+          <header>
+            <h1 className='f1'>RoboFriends</h1>
             <SearchBox searchChange={this.onSearchChange} />
           </header>
           <CardList robots={filteredRobots} />
