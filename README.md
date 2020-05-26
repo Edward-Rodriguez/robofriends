@@ -33,5 +33,5 @@ $ npm start
 ```
 ## Demo  
 
-![](https://gph.is/g/aQyX0m2)
+![Demo](robofriends.gif)
 
