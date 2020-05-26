@@ -33,5 +33,5 @@ $ npm start
 ```
 ## Demo  
 
-![Demo](https://giphy.com/gifs/XBvTc7kixgkxg9UU5H/html5)
+![](https://gph.is/g/aQyX0m2)
 
