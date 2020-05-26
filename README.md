@@ -8,6 +8,7 @@ Check it out [here](https://edward-rodriguez.github.io/robofriends/)
 
 - [Technologies](#technologies)  
 - [Setup](#setup)
+- [Demo](#Demo)
 
 ## Technologies
 
@@ -29,3 +30,7 @@ $ Clone this repo
 $ npm install
 $ npm start
 ```
+## Demo  
+
+![](http://www.giphy.com/gifs/LNl4UBmLZBtgrR4daz)
+
