@@ -23,14 +23,15 @@ Project is created with:
 
 ## Setup
 
-To run this project, install it locally using npm:
+To run this project, clone this repo and  
+install it locally using npm:
 
 ```
-$ Clone this repo
+$ cd ./robofriends
 $ npm install
 $ npm start
 ```
 ## Demo  
 
-![](http://www.giphy.com/gifs/LNl4UBmLZBtgrR4daz)
+![Demo](https://giphy.com/gifs/XBvTc7kixgkxg9UU5H/html5)
 
